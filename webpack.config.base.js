@@ -38,7 +38,6 @@ var config = {
   resolve: {
     extensions: ['', '.js', '.jsx', '.scss'],
     alias: {
-      images : __dirname + '/src/images',
       js : __dirname + '/src/js',
       css: __dirname + '/src/css'
     }
